@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vikrant
-- 👀 I’m interested working with front and back end web devlopment .
-- 🌱 I’m currently learning Full Stack Developer program at EDYODA.COM
-- 💞️ I’m looking to collaborate upon some website development firms.
+- 👀 I have knowledge of front end web devlopment using JS.
+- 🌱 I’m currently learning a step towards Data Science.
+- 💞️ I’m Happy to collaborate upon some website development firms.
 - 📫 can reach me at - vikrantdeshkar90@gmail.com
 
 <!---
